@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Bhanu.</h1>
-<h1 align="center"> Bhanu Prasad Test </h1>
+<h1 align="center"> Bhanu Prasad </h1>
 <hr>
 <div style="text-align: center;">
 
